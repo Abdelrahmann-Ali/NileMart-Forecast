@@ -7,8 +7,16 @@ It includes a model-development notebook, a Streamlit app for exploring results 
 **Full documentation:** [Documentation/DOCUMENTATION.md](Documentation/DOCUMENTATION.md) covers the dataset, methodology, results, code, API, app, testing, deployment, and maintenance.
 
 ## Screenshots
+<img width="1212" height="694" alt="image" src="https://github.com/user-attachments/assets/8d69caca-da65-4c5a-b1e6-8e694dcb93ee" />
+<img width="1218" height="692" alt="image" src="https://github.com/user-attachments/assets/631263e1-2b3e-46b1-8cbf-61dc520ad490" />
+<img width="1225" height="698" alt="image" src="https://github.com/user-attachments/assets/f7dff8f8-2afc-4597-b542-f0538267f3e5" />
+<img width="1234" height="676" alt="image" src="https://github.com/user-attachments/assets/b0c337f6-ea08-4e21-92d9-ec20f0e0d353" />
+<img width="1288" height="690" alt="image" src="https://github.com/user-attachments/assets/917cea70-729c-42cc-9e19-a6765617aa02" />
+<img width="1258" height="694" alt="image" src="https://github.com/user-attachments/assets/2e465293-5090-45c0-a2c5-5de588c76a0f" />
 
-<!-- Add screenshots here. -->
+
+
+
 
 ## What the Analysis Does
 
