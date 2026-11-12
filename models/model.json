@@ -1,0 +1,70 @@
+{
+    "model": {
+        "type": "linear_regression",
+        "intercept": 183.62148015652096,
+        "coefficients": {
+            "ad_spend_k": 2.580350180592286,
+            "discount_pct": 4.867193003606701,
+            "is_holiday_period": 99.96670614649423,
+            "competitor_promo": -38.79053393640444
+        }
+    },
+    "meta": {
+        "version": "1.0.0",
+        "trained_at": "2026-11-06T12:06:55+00:00",
+        "model": "linear_regression",
+        "features": [
+            "ad_spend_k",
+            "discount_pct",
+            "is_holiday_period",
+            "competitor_promo"
+        ],
+        "training_rows": 154,
+        "test_weeks": 30,
+        "test_scores": {
+            "linear_regression": {
+                "mae_k": 23.31,
+                "rmse_k": 33.55,
+                "r2": 0.891
+            },
+            "decision_tree": {
+                "mae_k": 43.05,
+                "rmse_k": 56.11,
+                "r2": 0.694
+            },
+            "random_forest": {
+                "mae_k": 34.87,
+                "rmse_k": 44.73,
+                "r2": 0.806
+            }
+        },
+        "selected_test_mae_k": 23.31,
+        "residual_std_k": 26.95,
+        "gross_margin": 0.3,
+        "feature_ranges": {
+            "ad_spend_k": [
+                40.2,
+                147.1
+            ],
+            "discount_pct": [
+                0.0,
+                20.0
+            ],
+            "is_holiday_period": [
+                0.0,
+                1.0
+            ],
+            "competitor_promo": [
+                0.0,
+                1.0
+            ]
+        },
+        "intercept": 183.6215,
+        "coefficients": {
+            "ad_spend_k": 2.5804,
+            "discount_pct": 4.8672,
+            "is_holiday_period": 99.9667,
+            "competitor_promo": -38.7905
+        }
+    }
+}
